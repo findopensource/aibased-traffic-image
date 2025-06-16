@@ -1,0 +1,7 @@
+{
+  "mapmyindia_api_key": "YOUR_MAPMYINDIA_API_KEY",
+  "azure_speech_key": "YOUR_AZURE_SPEECH_KEY",
+  "azure_region": "centralindia",
+  "latitude": "28.6139",
+  "longitude": "77.2090"
+}
