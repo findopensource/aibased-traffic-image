@@ -1,9 +1,10 @@
-# Smart Traffic Management System 🚦
+     # Smart Traffic Management System 🚦
 
-This system detects traffic congestion and vehicles using:
+  This system detects traffic congestion and vehicles using:
 - YOLOv8 for real-time object detection
 - MapMyIndia API for congestion data
 - Azure Cognitive Services (TTS) to announce traffic conditions
+
 
 ## 💡 Features
 - Vehicle detection from images (YOLOv8)
@@ -12,18 +13,21 @@ This system detects traffic congestion and vehicles using:
 - Stores traffic data in local JSON files
 - Works offline (except for APIs)
 
+
+
 ## 🛠 File Structure
-smart-traffic-system/
-├── app.py
-├── detection/...
-├── traffic/...
-├── tts/...
-├── config/
-├── utils/
-├── inputs/
-├── static/
-├── requirements.txt
-└── README.md
+
+    smart-traffic-system/
+    ├── app.py
+    ├── detection/...
+    ├── traffic/...
+    ├── tts/...
+    ├── config/
+    ├── utils/
+    ├── inputs/
+    ├── static/
+    ├── requirements.txt
+    └── README.md
 
 ## ✅ Setup Instructions
 ### 1. Clone the repo
